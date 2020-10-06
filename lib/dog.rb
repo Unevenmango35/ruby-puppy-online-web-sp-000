@@ -26,5 +26,7 @@ def save
   @@all << self
 end
 
+def name
+
   
 end
